@@ -153,10 +153,10 @@ input::placeholder {
         background-image:linear-gradient(to bottom,rgba(255, 192, 203, 0.11),rgba(255, 100, 126, 0.342));
         width: 100%;
     }
-    #email:focus {
+    input:focus {
         outline: none !important;
         border: none;
-        box-shadow: 0 0 10px rgba(255, 192, 203, 0.185);
+        box-shadow: 0 0 0 0;
     }
     #email {
         border-right: none;
