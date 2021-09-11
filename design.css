@@ -159,7 +159,7 @@ input::placeholder {
         border-color: transparent;
         background-color: transparent;
         margin-left: 5px;
-        width: 60%;
+        width: 55%;
         height: 50px;
     }
     #button {
@@ -177,7 +177,7 @@ input::placeholder {
         margin: auto;
         background-color: transparent;
         height: 60px;
-        width: 380px;
+        width: 370px;
         border:1px solid rgba(255, 98, 124, 0.349);
         border-radius: 50px;
         margin-bottom: 20px;
