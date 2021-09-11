@@ -150,8 +150,11 @@ input::placeholder {
     #info {
         min-height: 800px;
         margin: auto;
-        background-image:linear-gradient(to bottom,rgba(255, 192, 203, 0.11),rgba(255, 100, 126, 0.534));
+        background-image:linear-gradient(to bottom,rgba(255, 192, 203, 0.11),rgba(255, 100, 126, 0.342));
         width: 100%;
+    }
+    input:focus {
+        border: none;
     }
     #email {
         border-right: none;
